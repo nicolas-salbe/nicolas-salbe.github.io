@@ -1,11 +1,15 @@
-title: John Doe # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
+title: Nicolás Salazar Beltrán # your name (or website title) here
+logo: "/images/hs_li.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  <br>
+  Data Scientist with experience in programming and designing Embedded Systems.
+  Looking forward to apply my Data Science skills to derive insights, build predictive models, and support data-driven decisions in high-tech projects.  
   <br><br>
-  Second description 
+  Successfully completed the MIT Professional Education Applied Data Science Program with full marks.
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  Currently based in Barcelona.
+  <br><br>
+  <a href="https://www.linkedin.com/in/nicolas-salbe/">Say hola on LinkedIn</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:

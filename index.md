@@ -1,35 +1,15 @@
-## Portfolio
+## Data Science Projects
 
 ---
 
-### Category Name 1 
+### Malaria Detection: A Deep Learning Approach
+Applied several Deep Learning techniques to build different classification models capable of supporting malaria diagnosis by predicting infection from microscopy images of parasitized red blood cells. The models rely on Convolutional Neural Networks (CNN) that classify cell image samples as parasitized or uninfected.
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+*tools:*
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#)
+[![](https://img.shields.io/badge/sklearn-white?logo=scikit-learn)](#)
 
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
----
-
-
+[View the full project report](/projects/malaria/malaria_repost.html)
 
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->

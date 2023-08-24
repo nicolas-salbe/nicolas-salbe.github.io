@@ -31,7 +31,8 @@ Performed preliminary Exploratory Data Analysis on a limited dataset of records 
 [![](https://img.shields.io/badge/NumPy-white?logo=numpy&logoColor=blue)](#)
 [![](https://img.shields.io/badge/Jupyter-white?logo=jupyter)](#)
 
-[View the full project report](/projects/snifferbike/report_snifferbike.html)<br>
+View the full project report<br>
+<!--[View the full project report](/projects/snifferbike/report_snifferbike.html)<br>-->
 
 
 ---

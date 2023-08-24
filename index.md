@@ -10,7 +10,8 @@ Applied several Deep Learning techniques to build different classification model
 [![](https://img.shields.io/badge/Python-white?logo=python)](#)
 [![](https://img.shields.io/badge/Scikit--learn-white?logo=scikit-learn)](#) 
 [![](https://img.shields.io/badge/TensorFlow-white?logo=tensorflow)](#) 
-[![](https://img.shields.io/badge/Keras-white?logo=keras&logoColor=red)](#) 
+[![](https://img.shields.io/badge/Keras-white?logo=keras&logoColor=red)](#)
+[![](https://img.shields.io/badge/OpenCV-white?logo=opencv&logoColor=black)](#)
 [![](https://img.shields.io/badge/Colab-white?logo=googlecolab)](#)
 
 [View the full project report](/projects/malaria/report_malaria.html)<br>
@@ -25,12 +26,27 @@ The objective of this project was to predict the digits depicted in street-level
 <img src="projects/svhn/image_svhn.jpg?raw=true" />
 
 [![](https://img.shields.io/badge/Python-white?logo=python)](#)
+[![](https://img.shields.io/badge/Scikit--learn-white?logo=scikit-learn)](#) 
 [![](https://img.shields.io/badge/TensorFlow-white?logo=tensorflow)](#) 
 [![](https://img.shields.io/badge/Keras-white?logo=keras&logoColor=red)](#) 
 [![](https://img.shields.io/badge/Colab-white?logo=googlecolab)](#)
 
 [View the full project report](/projects/svhn/report_svhn.html)<br>
 
+
+---
+
+### Food Agreggator EDA
+Performed Exploratory Data Analysis on a Food Aggregator dataset consisting of data from customer orders with the objective of deriving insights to enhance usability and profitability.
+
+<img src="projects/foodhub/image_foodhub.jpg?raw=true" />
+
+[![](https://img.shields.io/badge/Python-white?logo=python)](#)
+[![](https://img.shields.io/badge/Pandas-white?logo=pandas&logoColor=black)](#) 
+[![](https://img.shields.io/badge/NumPy-white?logo=numpy&logoColor=blue)](#)
+[![](https://img.shields.io/badge/Jupyter-white?logo=jupyter)](#)
+
+[View the full project report](/projects/foodhub/report_foodhub.html)<br>
 
 <!--
 [![](https://img.shields.io/badge/Python-white?logo=python)](#)

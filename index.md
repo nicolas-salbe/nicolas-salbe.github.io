@@ -8,7 +8,7 @@ Applied several Deep Learning techniques to build different classification model
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#)
 [![](https://img.shields.io/badge/sklearn-white?logo=scikit-learn)](#)
 
-[View the full project report](/projects/malaria/report_malaria.html)
+[View the full project report](/projects/malaria/report_malaria.html)<br>
 [View the project slides](/projects/malaria/slides_malaria.html)
 
 

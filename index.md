@@ -11,8 +11,6 @@ Applied several Deep Learning techniques to build different classification model
 [![](https://img.shields.io/badge/Scikit--learn-white?logo=scikit-learn)](#) 
 [![](https://img.shields.io/badge/TensorFlow-white?logo=tensorflow)](#) 
 [![](https://img.shields.io/badge/Keras-white?logo=keras&logoColor=red)](#) 
-[![](https://img.shields.io/badge/Pandas-white?logo=pandas&logoColor=black)](#) 
-[![](https://img.shields.io/badge/NumPy-white?logo=numpy&logoColor=blue)](#)
 [![](https://img.shields.io/badge/Colab-white?logo=googlecolab)](#)
 
 [View the full project report](/projects/malaria/report_malaria.html)<br>
@@ -20,3 +18,26 @@ Applied several Deep Learning techniques to build different classification model
 
 
 ---
+
+### Street View Housing Number Digit Recognition
+The objective of this project was to predict the digits depicted in street-level photos images. Performed data preparation and built different ANN and CNN architectures with varying layers, activation functions and optimizers to compare their impact on the overall accuracy of the model.
+
+<img src="projects/svhn/image_svhn.jpg?raw=true" />
+
+[![](https://img.shields.io/badge/Python-white?logo=python)](#)
+[![](https://img.shields.io/badge/TensorFlow-white?logo=tensorflow)](#) 
+[![](https://img.shields.io/badge/Keras-white?logo=keras&logoColor=red)](#) 
+[![](https://img.shields.io/badge/Colab-white?logo=googlecolab)](#)
+
+[View the full project report](/projects/svhn/report_svhn.html)<br>
+
+
+<!--
+[![](https://img.shields.io/badge/Python-white?logo=python)](#)
+[![](https://img.shields.io/badge/Scikit--learn-white?logo=scikit-learn)](#) 
+[![](https://img.shields.io/badge/TensorFlow-white?logo=tensorflow)](#) 
+[![](https://img.shields.io/badge/Keras-white?logo=keras&logoColor=red)](#) 
+[![](https://img.shields.io/badge/Pandas-white?logo=pandas&logoColor=black)](#) 
+[![](https://img.shields.io/badge/NumPy-white?logo=numpy&logoColor=blue)](#)
+[![](https://img.shields.io/badge/Colab-white?logo=googlecolab)](#)
+-->

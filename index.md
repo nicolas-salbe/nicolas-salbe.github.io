@@ -20,6 +20,22 @@ Applied several Deep Learning techniques to build different classification model
 
 ---
 
+### SnifferBike EDA
+The SnifferBike is a data collection project intended to derive insights on air quality and cycling routes use in the province of Utrecht. Data is collected through an IoT sensing system mounted on the bicycles of participating citizens.
+Performed preliminary Exploratory Data Analysis on a limited dataset of records collected during one week.
+
+<img src="projects/snifferbike/image_snifferbike.jpg?raw=true" />
+
+[![](https://img.shields.io/badge/Python-white?logo=python)](#)
+[![](https://img.shields.io/badge/Pandas-white?logo=pandas&logoColor=black)](#) 
+[![](https://img.shields.io/badge/NumPy-white?logo=numpy&logoColor=blue)](#)
+[![](https://img.shields.io/badge/Jupyter-white?logo=jupyter)](#)
+
+[View the full project report](/projects/snifferbike/report_snifferbike.html)<br>
+
+
+---
+
 ### Street View Housing Number Digit Recognition
 The objective of this project was to predict the digits depicted in street-level photos images. Performed data preparation and built different ANN and CNN architectures with varying layers, activation functions and optimizers to compare their impact on the overall accuracy of the model.
 

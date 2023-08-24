@@ -9,7 +9,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br>
   Currently based in Barcelona.
   <br><br>
-  <a href="https://www.linkedin.com/in/nicolas-salbe/">Say hola on LinkedIn</a> 
+  <a href="https://www.linkedin.com/in/nicolas-salbe/">¡Hola! LinkedIn</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:

@@ -9,10 +9,10 @@ Applied several Deep Learning techniques to build different classification model
 
 [![](https://img.shields.io/badge/Python-white?logo=python)](#)
 [![](https://img.shields.io/badge/Scikit--learn-white?logo=scikit-learn)](#) 
-[![](https://img.shields.io/badge/TensorFlow-white?logo=tensorflow)]
-[![](https://img.shields.io/badge/Keras-white?logo=keras)]
-[![](https://img.shields.io/badge/Pandas-white?logo=pandas)]
-[![](https://img.shields.io/badge/Colab?logo=googlecolab)]
+[![](https://img.shields.io/badge/TensorFlow-white?logo=tensorflow)](#) 
+[![](https://img.shields.io/badge/Keras-white?logo=keras)](#) 
+[![](https://img.shields.io/badge/Pandas-white?logo=pandas)](#) 
+[![](https://img.shields.io/badge/Colab-white?logo=googlecolab)](#)
 
 [View the full project report](/projects/malaria/report_malaria.html)<br>
 [View the project slides](/projects/malaria/slides_malaria.pdf)

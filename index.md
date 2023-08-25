@@ -14,7 +14,7 @@ Applied several Deep Learning techniques to build different classification model
 [![](https://img.shields.io/badge/OpenCV-white?logo=opencv&logoColor=black)](#)
 [![](https://img.shields.io/badge/Colab-white?logo=googlecolab)](#)
 
-[View the full project report](/projects/malaria/report_malaria.html)<br>
+[View the full project report](/projects/malaria/notebook_malaria.html)<br>
 [View the project slides](/projects/malaria/slides_malaria.pdf)
 
 
@@ -45,7 +45,7 @@ The objective of this project was to predict the digits depicted in street-level
 [![](https://img.shields.io/badge/Keras-white?logo=keras&logoColor=red)](#) 
 [![](https://img.shields.io/badge/Colab-white?logo=googlecolab)](#)
 
-[View the full project report](/projects/svhn/report_svhn.html)<br>
+[View the full project report](/projects/svhn/notebook_svhn.html)<br>
 
 
 ---
@@ -60,7 +60,7 @@ Performed Exploratory Data Analysis on a Food Aggregator dataset consisting of d
 [![](https://img.shields.io/badge/NumPy-white?logo=numpy&logoColor=blue)](#)
 [![](https://img.shields.io/badge/Jupyter-white?logo=jupyter)](#)
 
-[View the full project report](/projects/foodhub/report_foodhub.html)<br>
+[View the full project report](/projects/foodhub/notebook_foodhub.html)<br>
 
 <!--
 [![](https://img.shields.io/badge/Python-white?logo=python)](#)

@@ -3,7 +3,7 @@ logo: "/images/hs_li.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   <br>
   Data Scientist with experience in programming and designing Embedded Systems.
-  Looking forward to apply my Data Science skills to derive insights, build predictive models, and support data-driven decisions in high-tech projects.  
+  Eager to apply my Data Science skills to derive insights, build predictive models, and support data-driven decisions in new high-tech projects.  
   <br><br>
   Successfully completed the MIT Professional Education Applied Data Science Program with full marks.
   <br><br>
@@ -14,4 +14,4 @@ description: > # your text below (remove <br> elements if you don't need line br
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
-google_analytics: UA-000000-0 # your Google Analytics tracking ID here
+google_analytics: G-JYP3QSFMFD # your Google Analytics tracking ID here
